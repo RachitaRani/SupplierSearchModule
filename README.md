@@ -48,6 +48,7 @@
 </p>
 <p>
   Access Swagger UI at: <a href="http://localhost:8080/swagger-ui.html">http://localhost:8080/swagger-ui.html</a>
+  <img src="Screenshot (63).png" alt="Swagger UI">
 </p>
 <p>
 Postman cURL available at : <a href="https://winter-shadow-812294.postman.co/workspace/fa7066f6-2783-4383-87b4-06635ff55d74/documentation/17775344-f16dd50e-4d77-40c8-8d95-438ba32042aa"> OPEN POSTMAN HERE</a>
